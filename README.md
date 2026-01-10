@@ -136,7 +136,9 @@ CREATE TABLE favourite (
 
 ##  APK/AAB untuk Testing
 
-[Link ke folder rilis APK/AAB Anda]
+[Link ke folder rilis APK](https://drive.google.com/drive/folders/1Anbx4SXS5Ebu6ncz8bufJRD-6KvTNYxj?usp=sharing)
+atau
+https://drive.google.com/drive/folders/1Anbx4SXS5Ebu6ncz8bufJRD-6KvTNYxj?usp=sharing
 
 ---
 
