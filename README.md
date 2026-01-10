@@ -1,4 +1,4 @@
-# Warungku POS 🍜
+# Warungku Warung Nusantara, POS 🍜
 
 Aplikasi Point of Sale (POS) mobile yang modern dan intuitif, dibuat dengan Flutter, untuk mengelola warung atau restoran makanan.
 
